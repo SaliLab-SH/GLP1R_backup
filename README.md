@@ -10,7 +10,10 @@ IMP version: 2.11.0 stable release
 
 written by: Huaiqing Cao, Sali lab, Shanghaitech University
 
+======
+
 1. Introduction of files
+
 1.1 Data
 The experimental data and input files are collected in Data folder.
 
@@ -47,7 +50,10 @@ Scripts for analyzing the sampled results are collected in Analyzing folder.
  precision of the clustered results.
 
 
+----
+
 2. Running
+
 Before sampling the system, topology file and crosslinking file should be 
  prepared carefully. Names in each column from topology file should be 
  consistent with the names in other input files. 
