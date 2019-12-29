@@ -1,0 +1,17 @@
+|directories|
+|pdb_dir||
+|fasta_dir||
+
+|topology_dictionary|
+|molecule_name|color|fasta_fn|fasta_id|pdb_fn|chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|
+|GLP1R_A |magenta        |5vew.fasta  |5VEWA    |M.pdb      |A|1,121  |0   |10|1 |1 |1| ||
+|GLP1R_A |magenta        |5vew.fasta  |5VEWA    |M.pdb      |A|122,123|0   |10|1 |1 | | ||
+|GLP1R_A |magenta        |5vew.fasta  |5VEWA    |M.pdb      |A|124,282|0   |10|1 |1 |2| ||
+|GLP1R_A |magenta        |5vew.fasta  |5VEWA    |M.pdb      |A|283,284|0   |10|1 |1 | | ||
+|GLP1R_A |magenta        |5vew.fasta  |5VEWA    |M.pdb      |A|285,END|0   |10|1 |1 |3| ||
+|GLP1R_B |green          |5vew.fasta  |5VEWB    |M.pdb      |B|1,121  |0   |10|2 |2 |4| ||
+|GLP1R_B |green          |5vew.fasta  |5VEWB    |M.pdb      |B|122,123|0   |10|2 |2 | | ||
+|GLP1R_B |green          |5vew.fasta  |5VEWB    |M.pdb      |B|124,282|0   |10|2 |2 |5| ||
+|GLP1R_B |green          |5vew.fasta  |5VEWB    |M.pdb      |B|283,284|0   |10|2 |2 | | ||
+|GLP1R_B |green          |5vew.fasta  |5VEWB    |M.pdb      |B|285,END|0   |10|2 |2 |6| ||
+
